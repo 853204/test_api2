@@ -1,18 +1,10 @@
 {
     "registeruser":[
-        {
-            "username":"abcd",
-            "firstname":"abcd",
-            "lastname":"abcd"
-        }
+        
     ],
   
     "login":[
-            {
-                "username":"abcd",
-                "firstname":"abcd",
-                "lastname":"abcd"
-            }
+            
     ],
 
   "Products":[
